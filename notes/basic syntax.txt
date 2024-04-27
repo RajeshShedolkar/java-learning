@@ -1,0 +1,13 @@
+Command:
+javac Main.java && java Main 
+
+Data Types:
+Integer: int - primitive datatype --- Integer wrapper class can be used to 
+for integer utility methods
+
+float: float
+unsgined Integer
+boolean - boolean is primitve datatypes --- Boolean wrapper cladd can be used 
+string - is not the primitive datatype--- String wrapper can be used for string 
+utiliy methods
+Chars
