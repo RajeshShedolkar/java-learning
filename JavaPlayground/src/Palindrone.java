@@ -68,9 +68,7 @@ public class Palindrone {
                 }
             }
         }
-        ArrayList<Integer> arr5 = new ArrayList<>();
-
-        return arr5.
+        return new int[] {};
     }
 
 }
