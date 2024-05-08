@@ -10,8 +10,6 @@ public class Main {
         p1 = sc.next();
         System.out.println("Add Player2: ");
         p2 = sc.next();
-        System.out.println("Add Player3: ");
-        p3 = sc.next();
 
         
     }
